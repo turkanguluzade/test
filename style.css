@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-style: bold;
+}
+
+span a {
+    color: blueviolet;
+}
+
+#name {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#uname {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#email {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#pwd {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#pwd-2 {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
+
+#birthday {
+    border: 1px solid; ;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.names{
+    display: flex;
+  justify-content: space-around;
+
+}
+
+.others{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.password{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+
+
+
